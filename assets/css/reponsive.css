@@ -100,8 +100,17 @@
         height: 30px;
         margin-left: 20px;
         margin-top: 8px;
-
-
-
+    }
+    .gallery-item img {
+        display: none;
+        width: 500px;
+        height: 200px;
+        /* transition: all .4s;
+        border-radius: 5px;
+        object-fit: fill; */
+    }
+    .introduce h2{
+        font-size: 15px;
+        height: 500px;
     }
 }
